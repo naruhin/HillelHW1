@@ -1,4 +1,4 @@
-# HillelHW1
+# Own implementation of ArrayList
 
 Написать interface IntList и его реализацию IntArrayList - аналог List<Integer>.
 
